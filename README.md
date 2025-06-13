@@ -7,8 +7,7 @@ Fruit Catch Game
 </h1>
 
 <p align="center">
-A simple and fun game where the player controls a basket to catch falling fruits.  
-Built in ARM assembly for STM32, rendered on a TFT LCD. Each caught fruit increases the score; missing fruits reduces chances.
+A simple and fun game where the player controls a basket to catch falling fruits.  Each caught fruit increases the score; missing fruits reduces chances.
 </p>
 
 ---
