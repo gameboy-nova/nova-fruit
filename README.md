@@ -1,8 +1,23 @@
-## 🎮 Fruit Catch Game
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8fe0ff78-ccdc-4a70-b6f6-908536f3a6e0" width="300">
+</p>
 
-### 📝 Description  
+<h1 align="center"> 
+Fruit Catch Game
+</h1>
+
+<p align="center">
 A simple and fun game where the player controls a basket to catch falling fruits.  
 Built in ARM assembly for STM32, rendered on a TFT LCD. Each caught fruit increases the score; missing fruits reduces chances.
+</p>
+
+---
+## 🎮 Gameplay Showcase
+
+Here’s a quick look at the game in action:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0a210db6-dc43-405f-af47-b780277bd623" width="500">
+</p>
 
 ---
 
